@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Arkanoid (UK) (1987) (Trainer).dsk</path>
+		<name>Arkanoid</name>
+		<desc>Arkanoid est un jeu d’arcade de type casse-briques développé par Taito en 1986 et porté sur de nombreux supports familiaux. Le jeu est basé sur le même principe que Breakout d'Atari Inc. (1976).</desc>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Arkanoid (UK) (1987) (Trainer)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20150906T143225</lastplayed>
+	</game>
+	<game>
+		<path>./Army Moves (S) (1986).dsk</path>
+		<name>Army Moves</name>
+		<rating>0</rating>
+		<developer>Dynamic Software</developer>
+		<playcount>3</playcount>
+		<lastplayed>20150906T143558</lastplayed>
+	</game>
+	<game>
+		<path>./Paperboy (UK) (1987).dsk</path>
+		<name>Paperboy</name>
+		<playcount>1</playcount>
+		<lastplayed>20150906T143150</lastplayed>
+	</game>
+	<game>
+		<path>./Renegade (UK) (1987) [Imagine Software].dsk</path>
+		<name>Renegade</name>
+		<desc>Le joueur incarne un expert en combat qui affronte des personnages, armés ou non, dans des arènes définies (le métro, une rue nocturne, etc). Le personnage peut effectuer des coups de poings, des coups de pieds (sauté ou arrière), et des prises (permettant d'asséner des coups de genoux).</desc>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Renegade (UK) (1987) [Imagine Software]-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Action</genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20150906T143121</lastplayed>
+	</game>
+</gameList>

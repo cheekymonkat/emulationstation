@@ -3,12 +3,12 @@
 	<game>
 		<path>./Arkanoid (UK) (1987) (Trainer).dsk</path>
 		<name>Arkanoid</name>
-		<desc>Arkanoid est un jeu d’arcade de type casse-briques développé par Taito en 1986 et porté sur de nombreux supports familiaux. Le jeu est basé sur le même principe que Breakout d'Atari Inc. (1976).</desc>
+		<desc>Arkanoid is a Breakout-type arcade game developed by Taito in 1986 and covered many family supports. The game is based on the same principle as Breakout Atari Inc. (1976).</desc>
 		<image>~/.emulationstation/downloaded_images/amstradcpc/Arkanoid (UK) (1987) (Trainer)-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Imagine Software</developer>
-		<publisher></publisher>
+		<publisher>Imagine Software</publisher>
 		<genre>Action</genre>
 		<players></players>
 		<playcount>1</playcount>
@@ -17,22 +17,174 @@
 	<game>
 		<path>./Army Moves (S) (1986).dsk</path>
 		<name>Army Moves</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/armymoves.jpg</image>
 		<rating>0</rating>
-		<developer>Dynamic Software</developer>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Dinamic</developer>
+		<publisher>Imagine Software</publisher>
 		<playcount>3</playcount>
 		<lastplayed>20150906T143558</lastplayed>
 	</game>
 	<game>
+		<path>./Batman (UK) (1986) [Original].dsk</path>
+		<name>Batman</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Batman_1986.jpg</image>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Batman The Movie (UK) (128K) (1989) (Trainer).dsk</path>
+		<name>Batman: The Movie </name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Batman The Movie (UK) (128K) (1989) (Trainer)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Bruce Lee (UK) (1984).dsk</path>
+		<name>Bruce Lee</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Bruce Lee.png</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Datasoft Inc</developer>
+		<publisher>Datasoft Inc</publisher>
+		<genre>platform</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Combat School (UK) (1987) (Trainer).dsk</path>
+		<name>Combat School </name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Combat_School.png</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Track and Field</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Daley Thompsons Decathlon (UK) (1985).dsk</path>
+		<name>Daley Thompson's Decathlon</name>
+		<desc>Simulating all ten events in the most gruelling event in the history of the Olympiad you will find the superb full-colour graphics and animation breathtaking enertainment. Ten staggering events for the price of one and great fun for all the family.  Daley Thompson's Decathlon simulates all 10 events in this gruelling test of skill and stamina.</desc>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Daley_Thompson's_Decathlon.jpg</image>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Game Over (UK) (1986) (Trainer).dsk</path>
+		<name>Game Over</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Game Over (UK) (1986) (Trainer)-image.jpg</image>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Dinamic Software</developer>
+		<publisher>Imagine Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./GhostsN Goblins (UK) (1986).dsk</path>
+		<name>Ghosts'n Goblins</name>
+		<desc>Ghosts 'n' Goblins is the authentic home computer version of the classic coin-operated arcade game from Capcom, authors of best sellers including the world beating Command and 1942. Ghosts 'n' Goblins is the classic fighting fantasy story, heroic knight to rescue beautiful maiden from clutches of demonic Overlord. Featuring some stunning effects and graphics, this technically excellent game is clearly another winner from the Elite/Capcom stable.</desc>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/GhostsN Goblins (UK) (1986)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Elite</publisher>
+		<genre>Action</genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20150906T164853</lastplayed>
+	</game>
+	<game>
+		<path>./Ghouls N Ghosts (UK) (1989) (Trainer).dsk</path>
+		<name>Ghouls'n Ghosts</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Ghouls N Ghosts (UK) (1989) (Trainer)-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>US Gold</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Green Beret (UK) (K7) (1986).dsk</path>
+		<name>Green Beret</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/greenberet.jpg</image>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Imagine Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Head Over Heels (UK) (1987).dsk</path>
+		<name>Head Over Heels</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Head_over_heels.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Hyper Sports (UK) (1985).dsk</path>
+		<name>Hyper Sports</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/hypersports.jpg</image>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Imagine Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./International Karate Plus (UK) (1988).dsk</path>
+		<name>International Karate +</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/ikplus.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>System 3</developer>
+		<publisher>System 3</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Movie (UK) (1986).dsk</path>
+		<name>M.O.V.I.E</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/M.O.V.I.E.png</image>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Imagine Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Match Day II (UK) (1987).dsk</path>
+		<name>Match Day II</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/MatchDay_2.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
 		<path>./Paperboy (UK) (1987).dsk</path>
 		<name>Paperboy</name>
+		<desc>Paperboy is a 1985 arcade game by Atari Games originally developed in 1984 .[1] The players take the role of a paperboy who delivers newspapers along a suburban street on his bicycle. </desc>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Paperboy.png</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Elite</publisher>
 		<playcount>1</playcount>
-		<lastplayed>20150906T143150</lastplayed>
 	</game>
 	<game>
 		<path>./Renegade (UK) (1987) [Imagine Software].dsk</path>
 		<name>Renegade</name>
-		<desc>Le joueur incarne un expert en combat qui affronte des personnages, armés ou non, dans des arènes définies (le métro, une rue nocturne, etc). Le personnage peut effectuer des coups de poings, des coups de pieds (sauté ou arrière), et des prises (permettant d'asséner des coups de genoux).</desc>
-		<image>~/.emulationstation/downloaded_images/amstradcpc/Renegade (UK) (1987) [Imagine Software]-image.jpg</image>
+		<desc>Gangs have finally taken over the city.  There is only one person able to defeat these gangs and eliminate the Boss.  This one person is Renegade.  The attack begins in the subway.  Then the action moves to the docks where menacing bikers challenge the Renegade.  The all-female gang leads the renegade into the streets.  Finally the action continues to the most deadly gang of all where one stab of their knife will kill the Renegade.  In this game you are the Renegade, and only through your skill at street fighting can you defend the city.</desc>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/renegade.jpg</image>
 		<rating>1</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Imagine Software</developer>
@@ -41,5 +193,71 @@
 		<players></players>
 		<playcount>1</playcount>
 		<lastplayed>20150906T143121</lastplayed>
+	</game>
+	<game>
+		<path>./Tai-Pan (UK) (1986) [Original].dsk</path>
+		<name>Tai-Pan</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Tai-Pan.png</image>
+		<rating>1</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Target Renegade (UK) (1988).dsk</path>
+		<name>Target: Renegade</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Target Renegade (UK) (1988)-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Imagine Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./The Great Escape (UK) (1986).dsk</path>
+		<name>The Great Escape</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/the_great_escape.jpg</image>
+		<rating>1</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./The Legend Of Kage (UK) (1986) (Trainer).dsk</path>
+		<name>The Legend of Kage</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/legend_of_kage.jpg</image>
+		<rating>1</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Imagine Software</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Wizball (UK) (1987) (Trainer).dsk</path>
+		<name>Wizball</name>
+		<desc>The goal is to collect drops of paint to color the level. Each level begins in monochrome, illustrated in three shades of gray, and requires only three colors are collected to finish the level. The player, a magician who has taken the form of a green ball can access three levels simultaneously, and can navigate between these levels using portals. Each level contains droplets of different primary colors which can be collected. Finally, each level requires a different color, which can be made by collecting sufficient amounts of primary colors.</desc>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/Wizball (UK) (1987) (Trainer)-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sensible Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Yie Ar Kung-Fu (UK) (1985).dsk</path>
+		<name>Yie Ar Kung-Fu</name>
+		<image>~/.emulationstation/downloaded_images/amstradcpc/yie_ar_kung-fu.jpg</image>
+		<rating>1</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Imagine Software</publisher>
+		<genre>Action</genre>
+		<players></players>
 	</game>
 </gameList>

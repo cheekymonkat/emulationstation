@@ -1,2 +1,9 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./+Start UAE4All.sh</path>
+		<name>+Start UAE4All</name>
+		<playcount>1</playcount>
+		<lastplayed>20150906T174507</lastplayed>
+	</game>
+</gameList>
